@@ -1,4 +1,3 @@
-=====
 Lab1: Dependency Analysis and Dependency Graphs
 =====
 
