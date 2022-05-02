@@ -561,7 +561,6 @@ Table 1: Comparing five aspects between the two versions of EnglishPal, ColdDew 
 |           Number of module-level dependencies           |    9    |          21           |
 +---------------------------------------------------------+---------+-----------------------+
 
-
 From a scale 1 (worst) to scale 5 (best), how would you evaluate the architectural health of each version of EnglishPal?Which version of EnglishPal is easier to understand and maintain? Explain in no more than 3 sentences.
 
    ColdDew版本等级为2，原因为系统能正常运行，但前后端的耦合较强；一些文件代码较为冗长，阅读代码时不易理解；若修改部分代码，可能会导致多处地方均需修改。
